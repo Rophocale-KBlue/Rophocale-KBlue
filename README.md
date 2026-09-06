@@ -1,6 +1,6 @@
 # Hi 👋, I'm KBlue
 
-### Loving yourself is a lifelong practice
+### --爱自己是贯穿一生的修行--
 
 - 🌱 I'm currently learning **ML&ES**
 
