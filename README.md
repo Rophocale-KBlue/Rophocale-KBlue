@@ -1,6 +1,6 @@
 # Hi 👋, I'm KBlue
 
-### --爱自己是贯穿一生的修行--
+### <center> --爱自己是贯穿一生的修行-- </center>
 
 - 🌱 I'm currently learning **ML&ES**
 
