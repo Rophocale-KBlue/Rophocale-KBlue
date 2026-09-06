@@ -1,8 +1,10 @@
 # Hi 👋, I'm KBlue
 
 <div align="center">
-  <h3> --爱自己是贯穿一生的修行-- </h3>
+  <h3> ✨爱自己是贯穿一生的修行✨ </h3>
 </div>
+
+-
 
 - 🌱 I'm currently learning **ML&ES**
 
