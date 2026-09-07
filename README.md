@@ -9,11 +9,13 @@
 - 🔭 I’m currently exploring:
 
   ·Quantization & pruning techniques for transformer-based models
+  
   ·Lightweight deployment. 
 
 - 🛠️ Tech I use regularly:
 
   Python · PyTorch · Git · Unity (C#)
+  
   I also have solid fundamentals in Computer Networks, OS, and Data Structures.
 
 - 📌 This GitHub is my lab — you’ll find:
