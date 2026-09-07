@@ -4,12 +4,12 @@
 
 <h3 align="left">Self-Introduction:</h3>
 
-- ☀️ I’m a junior CS student at Fuzhou University with a strong interest in efficient LLM inference and model compression. I enjoy playing music 🎸 and games 🎮 in my free time, and I love turning theoretical ideas into working code.
+- ☀️ I’m a junior CS student at Fuzhou University with a strong interest in efficient LLM inference and model compression. I've joined the AutoML Lab. I enjoy playing music 🎸 and games 🎮 in my free time, and I love turning theoretical ideas into working code.
 
 - 🔭 I’m currently exploring:
 
   ·Quantization & pruning techniques for transformer-based models
-  ·Lightweight deployment on edge devices
+  ·Lightweight deployment. 
 
 - 🛠️ Tech I use regularly:
 
