@@ -1,12 +1,29 @@
 # Hi 👋, I'm KBlue
 
-<div align="center">
-  <h3> ✨爱自己是贯穿一生的修行✨ </h3>
-</div>
+### ✨爱自己是贯穿一生的修行✨
 
--
 
-- 🌱 I'm currently learning **ML&ES**
+- ☀️ I’m a junior CS student at Fuzhou University with a strong interest in efficient LLM inference and model compression. I enjoy playing music 🎸 and games 🎮 in my free time, and I love turning theoretical ideas into working code.
+
+- 🔭 I’m currently exploring:
+
+  ·Quantization & pruning techniques for transformer-based models
+
+  ·Lightweight deployment on edge devices
+
+- 🛠️ Tech I use regularly:
+
+  Python · PyTorch · Git · Unity (C#)
+  
+  I also have solid fundamentals in Computer Networks, OS, and Data Structures.
+
+- 📌 This GitHub is my lab — you’ll find:
+
+ ·Course projects & lab reports
+
+ ·My learning notes on LLM optimization
+
+- 📫 Feel free to reach out if you share similar interests or have advice on LLM deployment!
 
 - 📫 How to reach me **RophocaleKBlue@gmail.com**
 
