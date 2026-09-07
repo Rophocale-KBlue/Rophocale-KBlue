@@ -19,13 +19,11 @@
 
 - 📌 This GitHub is my lab — you’ll find:
 
- ·Course projects & lab reports
+   ·Course projects & lab reports
 
- ·My learning notes on LLM optimization
+   ·My learning notes on LLM optimization
 
-- 📫 Feel free to reach out if you share similar interests or have advice on LLM deployment!
-
-- 📫 How to reach me **RophocaleKBlue@gmail.com**
+- 📫 Feel free to reach out if you share similar interests or have advice on LLM deployment! -- **RophocaleKBlue@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
