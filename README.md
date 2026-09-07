@@ -9,16 +9,19 @@
 - 🔭 I’m currently exploring:
 
   Quantization & pruning techniques for transformer-based models
+
   Lightweight deployment. 
 
 - 🛠️ Tech I use regularly:
 
   Python · PyTorch · Git · Unity (C#)
+
   I also have solid fundamentals in Computer Networks, OS, and Data Structures.
 
 - 📌 This GitHub is my lab — you’ll find:
 
    Course projects & lab reports
+  
    My learning notes on LLM optimization
 
 - 📫 Feel free to reach out if you share similar interests or have advice on LLM deployment! -- **RophocaleKBlue@gmail.com**
