@@ -2,25 +2,22 @@
 
 ### ✨爱自己是贯穿一生的修行✨
 
-
+<h3 align="left">Self-Introduction:</h3>
 - ☀️ I’m a junior CS student at Fuzhou University with a strong interest in efficient LLM inference and model compression. I enjoy playing music 🎸 and games 🎮 in my free time, and I love turning theoretical ideas into working code.
 
 - 🔭 I’m currently exploring:
 
   ·Quantization & pruning techniques for transformer-based models
-
   ·Lightweight deployment on edge devices
 
 - 🛠️ Tech I use regularly:
 
   Python · PyTorch · Git · Unity (C#)
-  
   I also have solid fundamentals in Computer Networks, OS, and Data Structures.
 
 - 📌 This GitHub is my lab — you’ll find:
 
    ·Course projects & lab reports
-
    ·My learning notes on LLM optimization
 
 - 📫 Feel free to reach out if you share similar interests or have advice on LLM deployment! -- **RophocaleKBlue@gmail.com**
