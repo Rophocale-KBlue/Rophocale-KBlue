@@ -36,10 +36,10 @@
 <p align="left">
   <!-- 英雄联盟 -->
   <a href="https://www.leagueoflegends.com/" target="_blank" rel="noreferrer">
-    <img src="main/image/lol.png" alt="League of Legends" width="40" height="40"/>
+    <img src="./image/lol.png" alt="League of Legends" width="40" height="40"/>
   </a>
   <!-- 明日方舟 -->
   <a href="https://arknights.global/" target="_blank" rel="noreferrer">
-    <img src="main/image/arknights.png" alt="Arknights" width="40" height="40"/>
+    <img src="./image/arknights.png" alt="Arknights" width="40" height="40"/>
   </a>
 </p>
