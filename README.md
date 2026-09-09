@@ -26,6 +26,16 @@
 
 - 📫 Feel free to reach out if you share similar interests or have advice on LLM deployment! -- **RophocaleKBlue@gmail.com**
 
+<h3 align="left">Development Plan:</h3>
+
+  I still don't have a clear plan about whether to get a job or take the civil service or graduate exams, so I'll list the probabilities for each option.
+
+- PGEE(40%):If I am admitted to my dream school, I will choose to pursue further studies and delve deeper into the areas that interest me.
+  
+- Work(30%):If, during my future studies and practice in software engineering, I discover a field I am truly passionate about, I may directly submit my résumé for corresponding positions.
+  
+- Civil Servant(30%):If I choose neither of the above, I will opt for the civil service exam and then settle into a stable life.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/Rophocale-KBlue" target="blank">
